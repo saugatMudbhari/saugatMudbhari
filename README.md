@@ -2,7 +2,7 @@
 - 👀 I’m interested in 0 and 1's
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me smudbhari85@gmail.com
 
 <!---
 saugatMudbhari/saugatMudbhari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
