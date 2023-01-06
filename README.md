@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saugatMudbhari
 - 👀 I’m interested in 0 and 1's
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning django and java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me smudbhari85@gmail.com
 
